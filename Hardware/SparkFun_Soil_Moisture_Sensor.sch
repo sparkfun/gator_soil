@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.3.1">
+<eagle version="9.1.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -16697,8 +16697,6 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <sheets>
 <sheet>
 <plain>
-<text x="121.92" y="99.06" size="1.778" layer="97" font="vector">Test different values for R1 to get 
-lower power consumption while still getting a good ADC reading. </text>
 <wire x1="0" y1="93.98" x2="116.84" y2="93.98" width="0.2032" layer="97" style="shortdash"/>
 <wire x1="116.84" y1="93.98" x2="248.92" y2="93.98" width="0.2032" layer="97" style="shortdash"/>
 <wire x1="248.92" y1="93.98" x2="248.92" y2="91.44" width="0.2032" layer="97" style="dashdot"/>
@@ -16710,7 +16708,7 @@ In general you want the probes long enough to reach the moist soil and not so cl
 Keeping them about an inch apart works great. 
 The big variable is the composition of the soil itself (especially salts), so ideally you would calibrate for each type of soil. 
 -Rob Faludi</text>
-<text x="30.48" y="165.1" size="1.778" layer="95" font="vector">Connectors</text>
+<text x="43.18" y="167.64" size="1.778" layer="95" font="vector">Connectors</text>
 <text x="167.64" y="172.72" size="1.778" layer="95" font="vector">Probe Circuit</text>
 <text x="12.7" y="111.76" size="1.778" layer="97" font="vector">DO NOT POWER CONSTANTLY 
 It is recommended that you use a digital GPIO pin
@@ -16719,6 +16717,7 @@ control the sensor to power the sensor. </text>
 <text x="38.1" y="40.64" size="1.778" layer="97" font="vector">PCB design inspired by the Soil Moisture Sensor from DFRobot
 http://www.dfrobot.com/index.php?route=product/product&amp;product_id=599</text>
 <text x="168.91" y="7.366" size="2.54" layer="94" font="vector">Andy England</text>
+<text x="236.22" y="7.62" size="2.54" layer="94" font="vector">v01</text>
 </plain>
 <instances>
 <instance part="Q1" gate="G$1" x="162.56" y="147.32" smashed="yes">
@@ -16754,7 +16753,6 @@ http://www.dfrobot.com/index.php?route=product/product&amp;product_id=599</text>
 <attribute name="SHEET" x="233.68" y="1.27" size="2.54" layer="94" font="vector"/>
 <attribute name="DRAWING_NAME" x="162.814" y="17.78" size="2.7432" layer="94" font="vector"/>
 <attribute name="DESIGNER" x="166.37" y="11.43" size="2.54" layer="94" font="vector"/>
-<attribute name="VERSION" x="236.22" y="6.35" size="2.54" layer="94" font="vector"/>
 </instance>
 <instance part="LOGO1" gate="G$1" x="88.9" y="0" smashed="yes"/>
 <instance part="LOGO2" gate="G$1" x="76.2" y="10.16" smashed="yes"/>
