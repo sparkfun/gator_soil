@@ -3289,7 +3289,7 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <attribute name="VERSION" value="v10" x="-7.62" y="-10.16" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 </element>
 <element name="LOGO1" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_FLAME_.1" value="SFE_LOGO_NAME_FLAME.1_INCH" x="17.399" y="45.847" smashed="yes" rot="MR0"/>
-<element name="LOGO2" library="SparkFun-Aesthetics" package="OSHW-LOGO-S" value="OSHW-LOGOS" x="20.32" y="54.61" smashed="yes" rot="MR0"/>
+<element name="LOGO2" library="SparkFun-Aesthetics" package="OSHW-LOGO-S" value="OSHW-LOGOS" x="20.955" y="46.355" smashed="yes" rot="MR0"/>
 <element name="U$4" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.2" value="" x="14.732" y="54.991" smashed="yes"/>
 <element name="STANDOFF1" library="SparkFun-Electromechanical" package="STAND-OFF" value="STAND-OFF" x="2.54" y="58.42" smashed="yes"/>
 <element name="STANDOFF2" library="SparkFun-Electromechanical" package="STAND-OFF" value="STAND-OFF" x="20.32" y="58.42" smashed="yes"/>
