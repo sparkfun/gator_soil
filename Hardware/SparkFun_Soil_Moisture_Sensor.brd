@@ -3281,7 +3281,7 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 </element>
 <element name="R2" library="SparkFun-Resistors" package="0603" value="100" x="8.89" y="49.53" smashed="yes" rot="R90">
 <attribute name="NAME" x="8.128" y="48.641" size="0.4064" layer="25" font="vector" rot="R90"/>
-<attribute name="PROD_ID" value="RES-12438" x="8.89" y="49.53" size="1.778" layer="27" font="vector" ratio="15" rot="R90" display="off"/>
+<attribute name="PROD_ID" value="RES-07863" x="8.89" y="49.53" size="1.778" layer="27" font="vector" ratio="15" rot="R90" display="off"/>
 <attribute name="VALUE" value="100" x="10.033" y="48.514" size="0.4064" layer="27" font="vector" rot="R90"/>
 </element>
 <element name="FRAME1" library="SparkFun-Aesthetics" package="CREATIVE_COMMONS" value="" x="-7.62" y="-10.16" smashed="yes">
