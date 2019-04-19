@@ -17052,8 +17052,8 @@ control the sensor to power the sensor. </text>
 <text x="38.1" y="40.64" size="1.778" layer="97" font="vector">PCB design inspired by the Soil Moisture Sensor from DFRobot
 http://www.dfrobot.com/index.php?route=product/product&amp;product_id=599</text>
 <text x="168.91" y="7.366" size="2.54" layer="94" font="vector">Andy England</text>
-<text x="236.22" y="7.62" size="2.54" layer="94" font="vector">v01</text>
-<text x="167.64" y="170.18" size="1.778" layer="97" font="vector">VIN: 3.3-5 V</text>
+<text x="236.22" y="7.62" size="2.54" layer="94" font="vector">v10</text>
+<text x="167.64" y="170.18" size="1.778" layer="97" font="vector">VCC: 3.3-5 V</text>
 </plain>
 <instances>
 <instance part="Q1" gate="G$1" x="162.56" y="147.32" smashed="yes">
